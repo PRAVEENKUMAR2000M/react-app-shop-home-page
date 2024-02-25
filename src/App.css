@@ -1,0 +1,7 @@
+.rating:hover {
+    
+    margin-top: -0.5em !important;
+    margin-bottom: 0.5em;
+    transition: 0.2s;
+    
+}
